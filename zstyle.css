@@ -1,0 +1,40 @@
+:root {
+
+  --margin: 5px;
+  
+  --y-axis-page-align: flex-start;
+  --x-axis-page-align: center;
+
+  --primary-color: #bbb;
+  --secondary-color: darkgrey;
+  --tertiary-color: lime;
+  --background-color: #222;
+  --background-border-color: #1d1d1d;
+  --border-bg-color: #2e2e2e;
+
+  --background: transparent;
+
+  /* Border */
+  --border-type: solid;
+  --border-thickness: 0px;
+  --border-radius: 0px;
+  --border-color: #333;
+
+  /* Scrollbar */
+  --scrollbar-width: 5px;
+  --scrollbar-track: #111;
+  --scrollbar-handle: grey;
+
+  /* Selection */
+  --selection-background: lightblue;
+  --selection-color: white;
+
+  /* Page Width */
+  --max-width: 1300px;
+
+  --primary-font: 'Open Sans', sans-serif;
+  --secondary-font: 'Open Sans', sans-serif;
+  --header-font: 'Open Sans', sans-serif;
+  --font-size: var(--responsive-font-size);
+
+}
