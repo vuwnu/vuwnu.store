@@ -1,6 +1,6 @@
 {
-  "siteName": "zoon Boilerplate",
-  "description": "This is a boilerplate for a project powered by zoon!",
+  "siteName": "Vuwnu Store",
+  "description": "Storefront for all products made available by Vuwnu",
   "config": "/",
   "files": "assets",
   "theme": "default"
