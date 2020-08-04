@@ -5,8 +5,8 @@
   --y-axis-page-align: flex-start;
   --x-axis-page-align: center;
 
-  --color-background:#333;
-  --color-text:#333;
+  --color-background:#222;
+  --color-text:#cdcdcd;
 
   --primary-color: #bbb;
   --secondary-color: darkgrey;
@@ -15,7 +15,7 @@
   --background-border-color: #1d1d1d;
   --border-bg-color: #2e2e2e;
 
-  --background: #333;
+  --background: #222;
 
   /* Border */
   --border-type: solid;
