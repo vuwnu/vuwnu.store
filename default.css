@@ -1,0 +1,9 @@
+.default {
+  --body-padding:10px;
+}
+.default section {
+  background: #333;
+}
+.default header {
+  min-height:200px;
+}
