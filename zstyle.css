@@ -1,9 +1,12 @@
 :root {
 
   --margin: 5px;
-  
+
   --y-axis-page-align: flex-start;
   --x-axis-page-align: center;
+
+  --color-background:#333;
+  --color-text:#333;
 
   --primary-color: #bbb;
   --secondary-color: darkgrey;
@@ -12,7 +15,7 @@
   --background-border-color: #1d1d1d;
   --border-bg-color: #2e2e2e;
 
-  --background: transparent;
+  --background: #333;
 
   /* Border */
   --border-type: solid;
