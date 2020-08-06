@@ -41,3 +41,15 @@
   --font-size: var(--responsive-font-size);
 
 }
+.logo {
+  color: white;
+  font-size: 3em;
+  font-family: 'MuseoModerno', cursive;
+  line-height: 1;
+  width: 100%;
+  text-align: center;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
