@@ -5,8 +5,9 @@
   --y-axis-page-align: flex-start;
   --x-axis-page-align: center;
 
-  --color-background:#222;
-  --color-text:#cdcdcd;
+  --color-background: #222;
+  --color-text: #cdcdcd;
+  --color-logo: white;
 
   --primary-color: #bbb;
   --secondary-color: darkgrey;
@@ -17,39 +18,18 @@
 
   --background: #111;
 
-  /* Border */
-  --border-type: solid;
-  --border-thickness: 0px;
-  --border-radius: 0px;
-  --border-color: #333;
-
-  /* Scrollbar */
   --scrollbar-width: 5px;
   --scrollbar-track: #111;
   --scrollbar-handle: grey;
 
-  /* Selection */
   --selection-background: lightblue;
   --selection-color: white;
 
-  /* Page Width */
   --max-width: 1300px;
 
-  --primary-font: 'Open Sans', sans-serif;
-  --secondary-font: 'Open Sans', sans-serif;
-  --header-font: 'Open Sans', sans-serif;
+  --font-primary: 'Open Sans', sans-serif;
+  --font-secondary: 'Open Sans', sans-serif;
+  --font-header: 'Open Sans', sans-serif;
+  --font-logo: 'MuseoModerno', cursive;
   --font-size: var(--responsive-font-size);
-
-}
-.logo {
-  color: white;
-  font-size: 3em;
-  font-family: 'MuseoModerno', cursive;
-  line-height: 1;
-  width: 100%;
-  text-align: center;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
 }
