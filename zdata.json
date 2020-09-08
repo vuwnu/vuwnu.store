@@ -3,5 +3,6 @@
   "description": "Storefront for all products made available by Vuwnu",
   "config": "/",
   "files": "assets",
-  "theme": "default"
+  "theme": "default",
+  "layout": "0"
 }
