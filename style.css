@@ -9,13 +9,6 @@
   --color-text: #cdcdcd;
   --color-logo: white;
 
-  --primary-color: #bbb;
-  --secondary-color: darkgrey;
-  --tertiary-color: lime;
-  --background-color: #222;
-  --background-border-color: #1d1d1d;
-  --border-bg-color: #2e2e2e;
-
   --background: #111;
 
   --scrollbar-width: 5px;
@@ -31,5 +24,5 @@
   --font-secondary: 'Open Sans', sans-serif;
   --font-header: 'Open Sans', sans-serif;
   --font-logo: 'MuseoModerno', cursive;
-  --font-size: var(--responsive-font-size);
+  --font-size: 100%;
 }
